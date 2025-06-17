@@ -40,9 +40,12 @@ php artisan key:generate
 Start the application:
 
 Terminal 1 - Laravel backend:
+
 bash : 
 php artisan serve
+
 Terminal 2 - Vue frontend:
+
 bash : 
 npm run dev
 
