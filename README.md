@@ -18,13 +18,14 @@ Quick Start
 
 Clone the repository:
 
-bash
+bash : 
 git clone https://github.com/juzeeh/merchant-notes-app.git
+
 cd merchant-notes-app
 
 Install dependencies:
 
-bash 
+bash : 
 composer install
 npm install
 
