@@ -18,7 +18,8 @@ Quick Start
 
 Clone the repository:
 
-bashgit clone https://github.com/juzeeh/merchant-notes-app.git
+bash
+git clone https://github.com/juzeeh/merchant-notes-app.git
 cd merchant-notes-app
 
 Install dependencies:
