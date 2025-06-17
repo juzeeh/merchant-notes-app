@@ -26,6 +26,7 @@ npm run dev              # Vue frontend
 ```
 
 🌐 Open in Browser
+
 Visit the app at:
 http://127.0.0.1:8000
 
