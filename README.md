@@ -27,21 +27,23 @@ Install dependencies:
 
 bash : 
 composer install
+
 npm install
 
 Setup Laravel:
 
-bash
+bash : 
 cp .env.example .env
+
 php artisan key:generate
 
 Start the application:
 
 Terminal 1 - Laravel backend:
-bash
+bash : 
 php artisan serve
 Terminal 2 - Vue frontend:
-bash
+bash : 
 npm run dev
 
 Open your browser:
