@@ -11,7 +11,9 @@ RESTful API with Laravel backend
 Prerequisites
 
 PHP 8.1+
+
 Composer
+
 Node.js & NPM
 
 Quick Start
